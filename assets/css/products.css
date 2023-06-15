@@ -42,6 +42,7 @@ section.products {
 .product_title {
     font-family: "montserrat";
     font-size: 20px;
+    font-weight: 800;
     text-align: center;
 }
 
