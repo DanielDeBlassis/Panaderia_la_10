@@ -1,0 +1,15 @@
+.swiper{
+	width: 100%;
+	height: fit-content;
+}
+.swiper-slide img{
+	width: 100%;
+}
+/*Color de los botones de avance y retroceso*/
+.swiper .swiper-button-prev, .swiper .swiper-button-next{
+	color: #757070;
+}
+/*Color del navegador al fondo*/
+.swiper .swiper-pagination-bullet-active{
+	background: #3a3939;
+}
